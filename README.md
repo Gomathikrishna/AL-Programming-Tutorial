@@ -1,6 +1,3 @@
-Here’s the updated `README.md` file with proper Markdown syntax for clickable links. This will render correctly on GitHub:
-
-```markdown
 # AL Programming for Microsoft Dynamics 365 Business Central  
 
 Welcome to the **AL Programming** repository! 🎉  
@@ -23,9 +20,8 @@ Whether you're new to AL or looking to refine your skills, this repository is th
 ## 📥 Getting Started  
 
 1. **Clone the Repository**:  
-   ```bash
    git clone https://github.com/Gomathikrishna/AL-Programming.git
-   ```
+   
 
 2. **Set Up Your Environment**:  
    - Watch this [YouTube video guide](https://www.youtube.com/watch?v=SFBgjkbywBM&list=PL9FfW__Sm3pLgZkPec1oZs_EdjEt88fjn&index=3&t=42s&pp=iAQB) for step-by-step instructions.  
