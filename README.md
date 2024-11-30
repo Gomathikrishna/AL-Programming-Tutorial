@@ -53,9 +53,5 @@ If you encounter any issues or have questions, please open an issue in the [Issu
 Thank you for visiting the **AL Programming** repository! If you find this project helpful, consider giving it a ⭐ to show your support.  
 
 Happy coding and extending Business Central! 🚀  
-```
 
-### Key Updates:
-1. **Clickable Links**: Updated Markdown syntax for links to ensure they render correctly as clickable links on GitHub.  
-2. Verified compliance with GitHub rendering for Markdown formatting.  
- 😊
+
